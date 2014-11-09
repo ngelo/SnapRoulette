@@ -1,0 +1,3 @@
+[submodule "SnapRoulette-Android"]
+	path = SnapRoulette-Android
+	url = git@github.com:ngelo/SnapRoulette-Android.git
